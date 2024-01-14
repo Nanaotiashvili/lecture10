@@ -1,0 +1,14 @@
+@media (max-width: 1230px) {
+    .container {
+        width: 95%;
+    }
+}
+
+@media (max-width: 650px) {
+    .fa-bars {
+        display: block;
+    }
+    nav {
+        display: none;
+    }
+}
